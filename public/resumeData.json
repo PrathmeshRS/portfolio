@@ -1,0 +1,118 @@
+{
+  "main": {
+    "name": "Prathmesh Shinde",
+    "occupation": "Full Stack Developer",
+    "description": "Full Stack Developer",
+    "image": "prathmesh.jpg",
+    "bio": "My name is Prathmesh, I'm a Full Stack ReactJS Developer. Currently I am a studying. I am open for job/internship opportunities.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "prathmeshrshinde@gmail.com",
+    "phone": "+91 97633 14381",
+    "address": {
+      "street": "1073/2, Saptshrungy Colony, Vijay Nagar, Kalewadi-Pimpri",
+      "city": "Pune",
+      "state": "MH",
+      "zip": "411017"
+    },
+    "resumedownload": "https://github.com/PrathmeshRS/Resume/blob/main/Prathmesh%20Shinde.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/prathmesh.shinde.965928/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/prathmesh-shinde-22607814b/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/zero_void_one/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/PrathmeshRS",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I am proficient in web technologies like HTML5, CSS3, React.js, Node.js, Firebase, Express.js, MongoDB, MySQL, Bootstrap. I am passionate about these technologies.",
+    "education": [
+      {
+        "school": "University Of Pune",
+        "degree": "Bachelor's Degree, Computer Engineering",
+        "graduated": "June 2021 (on-going)",
+        "description": "Graduating with Distinction"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "Python",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "60%"
+      },
+      {
+        "name": "Php",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Signal App ",
+        "category": "Signal Clone built with React Native and Firebase using expo-cli",
+        "image": "signal-clone.jpg",
+        "url": "https://signal-clone-d3841.web.app/"
+      },
+      {
+        "title": "Slack Clone App ",
+        "category": "Slack Clone built with Reactjs, react-rotuer-dom, and redux",
+        "image": "slack-clone.jpg",
+        "url": "https://slack-clone-84610.web.app/"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Netflix Clone built with Reactjs, react-youtube and firebase",
+        "image": "netflix.jpg",
+        "url": "https://netflix-clone-d7c12.web.app/"
+      },
+      {
+        "title": "To-Do List App ",
+        "category": "To-Do-List built with NodeJS | MongoDB | Express",
+        "image": "To-Do-List.jpg",
+        "url": "https://thawing-scrubland-42203.herokuapp.com/"
+      },
+      {
+        "title": "Snapchat Replica App ",
+        "category": "Snapchat Replica built with Reactjs. Snap Functionality.",
+        "image": "snapchat.jpg",
+        "url": "https://snapchat-clone-ca430.web.app/"
+      },
+      {
+        "title": "Gmail Clone",
+        "category": "Gmail Clone built with ReactJS and Firebase",
+        "image": "gmail-clone.jpg",
+        "url": "https://clone-d40f1.web.app/"
+      }
+    ]
+  }
+}
